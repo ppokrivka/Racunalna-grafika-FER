@@ -1,0 +1,18 @@
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+8 1 1 1 1 1 1 1 1 1 1 1 8 1 1
+1 1 8 1 1 1 8 1 1 1 1 1 1 1 1
+1 8 1 1 8 1 1 1 8 1 1 8 1 1 1
+
+# 0 -- no brick
+# 1 -- normal brick
+# 2 -- double brick
+# 3 -- double brick second hit
+# 4 -- increase paddle speed
+# 5 -- decrease paddle speed
+# 6 -- increase paddle size
+# 7 -- decrease paddle size
+# 8 -- fire ball
